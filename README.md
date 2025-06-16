@@ -80,8 +80,8 @@ This project demonstrates how to deploy a **highly available and scalable static
 - **EC2_Module**
 ![EC2_Module](Images/Ec2_module.png)
 
-- **Route53-hosted-zones**
-![CloudFront configuration](Images/Route53-hosted-zones.png)
+- **Load_Balancer**
+![Load_Balancer](Images/Load_Balancer.png)
 
 - **SSl-Certificate**
 ![CloudFront configuration](Images/SSL-Certificate.png)
