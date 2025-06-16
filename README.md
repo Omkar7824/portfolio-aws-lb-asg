@@ -26,7 +26,7 @@ This project demonstrates how to deploy a **highly available and scalable static
 
 ## Network Architecture
 
-![Portfolio Website Digram](Architecture/Architure-digram.png)
+![Portfolio Website Digram](Archicture)
 
 ---
 
