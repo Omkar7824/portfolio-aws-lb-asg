@@ -83,8 +83,8 @@ This project demonstrates how to deploy a **highly available and scalable static
 - **Load_Balancer**
 ![Load_Balancer](Images/Load_Balancer.png)
 
-- **SSl-Certificate**
-![CloudFront configuration](Images/SSL-Certificate.png)
+- **Targate_Group**
+![Targate_Group](Images/Targate_Group.png)
 
 - **Final-Live-Site**
 ![Final-Live-Site](Images/Final-Live-Site.png)
