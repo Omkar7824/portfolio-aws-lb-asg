@@ -86,8 +86,8 @@ This project demonstrates how to deploy a **highly available and scalable static
 - **Targate_Group**
 ![Targate_Group](Images/Targate_Group.png)
 
-- **Final-Live-Site**
-![Final-Live-Site](Images/Final-Live-Site.png)
+- **VPC**
+![VPC](Images/vpc.png)
   
 ---
 
