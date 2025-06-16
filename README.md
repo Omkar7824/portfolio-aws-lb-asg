@@ -75,7 +75,7 @@ This project demonstrates how to deploy a **highly available and scalable static
 ## 📸 Screenshots 
 
 - **S3 bucket setup**
-![cloud front](Images/S3-Bucket.png)
+![Auto_Scalling_Group](Images/ASG.png)
 
 - **CloudFront**
 ![cloud front](Images/Cloud-front.png)
