@@ -74,11 +74,11 @@ This project demonstrates how to deploy a **highly available and scalable static
 
 ## 📸 Screenshots 
 
-- **S3 bucket setup**
+- **Auto_Scalling_Group**
 ![Auto_Scalling_Group](Images/ASG.png)
 
-- **CloudFront**
-![cloud front](Images/Cloud-front.png)
+- **EC2_Module**
+![EC2_Module](Images/Ec2_module.png)
 
 - **Route53-hosted-zones**
 ![CloudFront configuration](Images/Route53-hosted-zones.png)
